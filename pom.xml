@@ -10,7 +10,6 @@
   <groupId>com.github.dharmeshdabhi</groupId>
   <artifactId>jitpacktest</artifactId>
   <version>2.0.1</version>
-  <packaging>pom</packaging>
   <dependencies>
     <dependency>
       <groupId>androidx.core</groupId>
