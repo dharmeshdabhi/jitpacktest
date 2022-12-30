@@ -7,9 +7,9 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.my-company</groupId>
-  <artifactId>my-library</artifactId>
-  <version>1.0</version>
+  <groupId>com.github.dharmeshdabhi</groupId>
+  <artifactId>jitpacktest</artifactId>
+  <version>1.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
