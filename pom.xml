@@ -10,7 +10,7 @@
   <groupId>com.github.dharmeshdabhi</groupId>
   <artifactId>jitpacktest</artifactId>
   <version>7.0.0</version>
-  <packaging>aar</packaging>
+  <packaging>pom</packaging>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
