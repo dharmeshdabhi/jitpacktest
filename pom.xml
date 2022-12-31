@@ -9,8 +9,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.dharmeshdabhi</groupId>
   <artifactId>jitpacktest</artifactId>
-  <version>7.0.0</version>
-  <packaging>pom</packaging>
+  <version>9.0.0</version>
+ 
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
